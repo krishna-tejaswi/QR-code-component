@@ -21,7 +21,11 @@ img{
   border-radius: 10px;
 }
 
+h1{
+  font-size: medium;
+}
+
 p{
   font-size: small;
-  font-weight: 50;
+  font-weight: 20;
 }
