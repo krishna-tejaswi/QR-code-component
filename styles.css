@@ -4,8 +4,10 @@
 
 body{
   background-color: rgb(220, 231, 241);
+  display: flex;
   align-items: center;
-
+  justify-content: center;
+  margin: 100px auto;
 }
 
 section{
@@ -13,8 +15,6 @@ section{
   border-radius: 10px;
   padding: 12px;
   width: 220px;
-  text-align: center;
-  
 }
 
 img{
